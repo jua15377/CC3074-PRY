@@ -1,4 +1,4 @@
-"","dia_ocu","mes_ocu","año_ocu","dia_sem_ocu","hora_ocu","depto_ocu","tipo_veh","color_veh","causa_acc","num_hecho","zona_ocu","modelo_veh","marca_veh","mupio_ocu","g_hora","g_modelo_veh","g_hora_5","areag_ocu","sexo_pil","edad_pil","mayor_menor","estado_pil","corre_base","edad_quinquenales","g_edad"
+"","dia_ocu","mes_ocu","ano_ocu","dia_sem_ocu","hora_ocu","depto_ocu","tipo_veh","color_veh","causa_acc","num_hecho","zona_ocu","modelo_veh","marca_veh","mupio_ocu","g_hora","g_modelo_veh","g_hora_5","areag_ocu","sexo_pil","edad_pil","mayor_menor","estado_pil","corre_base","edad_quinquenales","g_edad"
 "1",1,1,2009,4,7,18,9,99,2,18,NA,2005,NA,NA,2,4,NA,2,1,27,1,1,NA,NA,4
 "2",1,1,2009,4,8,5,1,14,3,9,NA,1983,NA,NA,2,2,NA,2,1,39,1,1,NA,NA,6
 "3",1,1,2009,4,8,9,3,6,2,17,NA,9999,NA,NA,2,6,NA,2,9,999,99,9,NA,NA,16
